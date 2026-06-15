@@ -1,0 +1,47 @@
+[33mcommit 83973ac7c526754d7d6ab3b783511221cf5c62f1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: zhoupan970810 <a572874046@163.com>
+Date:   Mon Jun 8 13:35:26 2026 +0200
+
+    test7-2
+
+[33mcommit efae19a1a047420ff55063f3418f0e2e8eaebc76[m
+Author: zhoupan970810 <a572874046@163.com>
+Date:   Mon Jun 8 13:34:30 2026 +0200
+
+    test7-1
+
+[33mcommit d688185e255cd4e8dabea3aaf1609979fdf1de6e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/branch1[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: zhoupan970810 <a572874046@163.com>
+Date:   Sat Jun 6 19:07:50 2026 +0200
+
+    adding for rebasing
+
+[33mcommit 7d2ae6000d0523414ec8038cf418f14c02e0b5a6[m
+Author: zhoupan970810 <a572874046@163.com>
+Date:   Sat Jun 6 18:58:48 2026 +0200
+
+    modified test4
+
+[33mcommit 85ff0f5941eaf8bff173d3dfd8f0cb7e70cb76b7[m
+Author: zhoupan970810 <a572874046@163.com>
+Date:   Sat Jun 6 18:51:21 2026 +0200
+
+    making changes in branch1
+
+[33mcommit 46c00ddc658582ce875dc5aef4326adb6b0de338[m
+Author: zhoupan970810 <a572874046@163.com>
+Date:   Sat Jun 6 18:42:12 2026 +0200
+
+    adding 3 files together
+
+[33mcommit 594a8ef5f358141dd06e3708c940075c86a1d4cd[m
+Author: zhoupan970810 <a572874046@163.com>
+Date:   Sat Jun 6 18:39:02 2026 +0200
+
+    adding first commit in local repo
+
+[33mcommit 98337e146ac5e6fd3cccf9bd7d635e3481d21f60[m
+Author: zhoupan970810 <a572874046@gmail.com>
+Date:   Fri Jun 5 15:24:08 2026 +0200
+
+    Initial commit
